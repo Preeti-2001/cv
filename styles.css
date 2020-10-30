@@ -1,0 +1,33 @@
+/****************************tag selectors***************************/
+body {
+   background-color: #e8ffff
+
+}
+hr{
+width: 7%;
+border-style: none none;
+border-top-style: dotted;
+border-top-color: #a6f6f1;
+border-width: 9px ;
+}
+h1{
+  color: #0f3057 ;
+}
+h3
+{
+  color: #0f3057 ;
+}
+img:hover{
+  background-color: gold;
+}
+
+/***********************class selectors*****************************/
+.aeroplane{
+  background-color: blue;
+}
+.pilot{
+  background-color: black;
+}
+.circle{
+  border-radius: 90% ;
+}
